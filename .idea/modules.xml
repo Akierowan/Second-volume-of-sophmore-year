@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Second volume of sophmore year.iml" filepath="$PROJECT_DIR$/Second volume of sophmore year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph_ScenicArea/Graph_ScenicArea.iml" filepath="$PROJECT_DIR$/Graph_ScenicArea/Graph_ScenicArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HuffmanCompress/HuffmanCompress.iml" filepath="$PROJECT_DIR$/HuffmanCompress/HuffmanCompress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IR/IR.iml" filepath="$PROJECT_DIR$/IR/IR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkGame/LinkGame.iml" filepath="$PROJECT_DIR$/LinkGame/LinkGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
